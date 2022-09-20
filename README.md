@@ -20,7 +20,7 @@
 | Course | Offered By | Certificate |
 | :----: | :--------: | :---------: |
 | [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) | `Harvard University` | [Link](https://cs50.harvard.edu/certificates/2e7c47d4-69b5-42ad-9385-5f11475f6cab) (Free CS50 Certificate) |
-| [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | N/A (Course is ongoing) |
+| [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | [Link](https://courses.edx.org/certificates/31933e1f413741a09fc26b0b14e0be28) |
 
 </details>
 
