@@ -1,8 +1,4 @@
 **Highlights:**
-<!-- <details> -->
-<!-- <summary>MOOCs</summary> -->
-
-<!-- Coursera section -->
 ## Coursera
 **Notable courses taken:**
 |  Course    |  Offered By | Certificate |
@@ -22,13 +18,7 @@
 | [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) | `Harvard University` | [Link](https://cs50.harvard.edu/certificates/2e7c47d4-69b5-42ad-9385-5f11475f6cab) (Free CS50 Certificate) |
 | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | [Link](https://courses.edx.org/certificates/31933e1f413741a09fc26b0b14e0be28) |
 
-</details>
-
-<!-- <details> -->
-<!-- <summary>The Odin Project</summary> -->
 ## The Odin Project
-<!-- <br> -->
-
 **Output:**
 - Project: Recipes (HTML Foundations)
     - [Code repository](https://github.com/neo-ran/odin-recipes)
@@ -52,23 +42,24 @@
     - [Live preview]()
 -->
 
-</details>
-
 <hr>
 
 <details>
 <summary>Other certificates</summary>
 
 - Getting Grounded by Analytics
-    - [Certificate](https://github.com/gja-ledesma/gja-ledesma/files/12045954/Getting.Grounded.on.Analytics.pdf)
+    - [Certificate](https://docs.google.com/viewer?url=https://github.com/gja-ledesma/gja-ledesma/files/12045954/Getting.Grounded.on.Analytics.pdf)
     - By [SPARTA](https://sparta.dap.edu.ph/sgp)
+    - Issued in July 8, 2023
 
 - Program in Python during the Code Your Future
-    - [Certificate](https://github.com/gja-ledesma/gja-ledesma/files/12045993/Gabriel.Josemaria.Alcantara.Ledesma.s.Certificate.of.Completion-.CYF.with.Stacktrek_.40.Mins.Coding.Workshop.for.Non-coders.pdf)
+    - [Certificate](https://docs.google.com/viewer?url=https://github.com/gja-ledesma/gja-ledesma/files/12045993/Gabriel.Josemaria.Alcantara.Ledesma.s.Certificate.of.Completion-.CYF.with.Stacktrek_.40.Mins.Coding.Workshop.for.Non-coders.pdf)
     - By [StackTrek](https://www.stacktrek.com/)
+    - Issued in May 27, 2022
 
 </details>
+<br>
 
-<!-- **GitHub Stats:** --> 
+**GitHub Stats:** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gja-ledesma&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
