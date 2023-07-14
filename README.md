@@ -1,6 +1,6 @@
 **Highlights:**
-<details>
-<summary>MOOCs</summary>
+<!-- <details> -->
+<!-- <summary>MOOCs</summary> -->
 
 <!-- Coursera section -->
 ## Coursera
@@ -24,9 +24,10 @@
 
 </details>
 
-<details>
-<summary>The Odin Project</summary>
-<br>
+<!-- <details> -->
+<!-- <summary>The Odin Project</summary> -->
+## The Odin Project
+<!-- <br> -->
 
 **Output:**
 - Project: Recipes (HTML Foundations)
@@ -53,6 +54,20 @@
 
 </details>
 
+<hr>
+
+<details>
+<summary>Other certificates</summary>
+
+- Getting Grounded by Analytics
+    - [Certificate](https://github.com/gja-ledesma/gja-ledesma/files/12045954/Getting.Grounded.on.Analytics.pdf)
+    - By [SPARTA](https://sparta.dap.edu.ph/sgp)
+
+- Program in Python during the Code Your Future
+    - [Certificate](https://github.com/gja-ledesma/gja-ledesma/files/12045993/Gabriel.Josemaria.Alcantara.Ledesma.s.Certificate.of.Completion-.CYF.with.Stacktrek_.40.Mins.Coding.Workshop.for.Non-coders.pdf)
+    - By [StackTrek](https://www.stacktrek.com/)
+
+</details>
 
 <!-- **GitHub Stats:** --> 
 
