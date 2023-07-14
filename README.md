@@ -21,16 +21,16 @@
 ## The Odin Project
 **Output:**
 - Project: Recipes (HTML Foundations)
-    - [Code repository](https://github.com/neo-ran/odin-recipes)
-    - [Live preview](https://neo-ran.github.io/odin-recipes/)
+    - [Code repository](https://github.com/gja-ledesma/odin-recipes)
+    - [Live preview](https://gja-ledesma.github.io/odin-recipes/)
 
 - Project: Landing Page (Flexbox)
-    - [Code repository](https://github.com/neo-ran/landing-page)
-    - [Live preview](https://neo-ran.github.io/landing-page/)
+    - [Code repository](https://github.com/gja-ledesma/landing-page)
+    - [Live preview](https://gja-ledesma.github.io/landing-page/)
 
 - Project: Rock Paper Scissors (JavaScript)
-    - [Code repository](https://github.com/neo-ran/rock-paper-scissors)
-    - [Live preview](https://neo-ran.github.io/rock-paper-scissors)
+    - [Code repository](https://github.com/gja-ledesma/rock-paper-scissors)
+    - [Live preview](https://gja-ledesma.github.io/rock-paper-scissors)
 
 <!--
 - Project: Etch-a-Sketch (JavaScript)
