@@ -47,9 +47,14 @@
 <details>
 <summary>Other certificates</summary>
 
+- Computing in Python
+    - [Certificate](https://docs.google.com/viewer?url=https://github.com/gja-ledesma/gja-ledesma/files/12572584/Computing.in.Python.pdf)
+    - By [SPARTA](https://sparta.dap.edu.ph/)
+    - Issued in August 19, 2023
+
 - Getting Grounded by Analytics
     - [Certificate](https://docs.google.com/viewer?url=https://github.com/gja-ledesma/gja-ledesma/files/12045954/Getting.Grounded.on.Analytics.pdf)
-    - By [SPARTA](https://sparta.dap.edu.ph/sgp)
+    - By [SPARTA](https://sparta.dap.edu.ph/)
     - Issued in July 8, 2023
 
 - Program in Python during the Code Your Future
