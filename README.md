@@ -7,8 +7,7 @@
 | Course | Offered By | Certificate | Issued |
 | :----: | :--------: | :---------: | :----: |
 | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `Massachusetts Institute of Technology (MITx)` | [Link](https://courses.edx.org/certificates/31933e1f413741a09fc26b0b14e0be28) | August 5, 2022 | 
-| [CS50's Understanding Technology](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology) | `Harvard University (HarvardX)` | [Link](https://cs50.harvard.edu/certificates/2e7c47d4-69b5-42ad-9385-5f11475f6cab) (web cert) | 2022 | 
-| [CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity) | `Harvard University (HarvardX)` | - | Ongoing |
+| [CS50's Understanding Technology](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology) | `Harvard University (HarvardX)` | [Link](https://cs50.harvard.edu/certificates/2e7c47d4-69b5-42ad-9385-5f11475f6cab) (web cert) | May 17, 2022 | 
 
 ## Coursera
 |  Course  | Offered By | Certificate | Issued |
